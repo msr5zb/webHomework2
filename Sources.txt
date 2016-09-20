@@ -1,0 +1,8 @@
+https://jquery.com/
+http://subtlepatterns.com/
+http://dev.vast.com/jquery-popup-overlay/
+http://getbootstrap.com/
+http://responsiveslides.com/
+https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css
+
+
